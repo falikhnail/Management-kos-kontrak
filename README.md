@@ -2,10 +2,6 @@
 
 Sistem Management Kontrakan Dengan Payment Gateway + Whatsapp Gateway
 
-Jangan lupa untuk mengunjungi blog ku
-
-- [sangcahaya.id](https://sangcahaya.id)
-
 ## Requirement
 
 - php >= v.7.4
