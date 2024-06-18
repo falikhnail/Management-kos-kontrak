@@ -1,6 +1,11 @@
 ## About Me
 
 Sistem Management Kontrakan Dengan Payment Gateway + Whatsapp Gateway
+XENDIT_TEST_SECRET_KEY=xnd_public_development_htmQfIBBqiauLS8oOwOSMtCSfBDTG5zV5vwDmm76aGYiIMi_3oouozCOp9mAyAj
+XENDIT_LIVE_SECRET_KEY=
+
+WABLAS_TOKEN=4BuS78bZY5H9rSvFS4IbFvAqcgp3CgZh3Cz6sOs8nDdUzhAT1tZK0RnCfRpCnlGO
+WABLAS_SERVER=https://pati.wablas.com
 
 ## Requirement
 
